@@ -7,7 +7,6 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 - 📫 How to reach me: academicsdm03@gmail.com
 
 
-![GitHub followers](https://img.shields.io/github/followers/0xsayandip?label=Followers)
 ![Profile views](https://komarev.com/ghpvc/?username=0xsayandip&color=blue)
 
 <div align="center">
